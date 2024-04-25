@@ -38,7 +38,7 @@ map.html
         <h1 align="center">
             <font color="RED"><b>PULIVENDULA,KADAPA DISTRICT</b></font>
         </h1>
-        <h3 align="center"><font color="blue"><b>Abhineswar Reddy (212223040084)</b></font></h3>
+        <h3 align="center"><font color="blue"><b>Neethiventhan (212223100038)</b></font></h3>
 
        <center><img src="map.png" usemap="#image-map">
 
