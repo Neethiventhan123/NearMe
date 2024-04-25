@@ -182,12 +182,7 @@ In 2003, he undertook a three-month-long padayatra covering 1,500 kilometres (93
 ```
 
 ## OUTPUT
-![alt text](1.map.png)
-![alt text](2.cinema.png)
-![alt text](3.shilparamam.png)
-![alt text](<4.rani thopu.png>)
-![alt text](5.college.png)
-![alt text](6.statue.png)
+
 
 
 
