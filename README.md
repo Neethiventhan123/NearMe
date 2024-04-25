@@ -40,7 +40,7 @@ map.html
         </h1>
         <h3 align="center"><font color="blue"><b>Neethiventhan (212223100038)</b></font></h3>
 
-       <center><img src="map.png" usemap="#image-map">
+       <center><img src="map 1.png" usemap="#image-map">
 
 <map name="image-map">
     <area target="" alt="Maruthi Theater" title="Maruthi Theater" href="cinema.html" coords="584,307,767,346" shape="rect">
@@ -182,6 +182,14 @@ In 2003, he undertook a three-month-long padayatra covering 1,500 kilometres (93
 ```
 
 ## OUTPUT
+![Screenshot 2024-04-25 180255](https://github.com/Neethiventhan123/NearMe/assets/148514848/6cd05542-0ece-4085-b9ce-5c2fc0fffafa)
+![Screenshot 2024-04-25 180418](https://github.com/Neethiventhan123/NearMe/assets/148514848/b4550c41-f8f9-42af-a7d4-61d77f449553)
+![Screenshot 2024-04-25 180609](https://github.com/Neethiventhan123/NearMe/assets/148514848/557858e7-436c-477e-8967-15d174711593)
+![Screenshot 2024-04-25 180703](https://github.com/Neethiventhan123/NearMe/assets/148514848/75cbf9d3-9da7-4d63-9f9f-584021762ad3)
+
+
+
+
 
 
 
